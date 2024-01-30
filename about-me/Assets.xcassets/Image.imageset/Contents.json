@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "cute-young-businesswoman-working-with-laptop-view-market-analysis-report-3d-illustration-cartoon-character-PhotoRoom.png-PhotoRoom.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
